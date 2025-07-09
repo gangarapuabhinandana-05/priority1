@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--External CSS-->
+    <link rel="stylesheet"href="priority.CSS">
+
+    <!--External CSS-->
+    <style>
+        p{
+            color:brown;
+        }
+    </style>
+</head>
+<body>
+    <p style="color:blueviolet;">This text shows CSS priority order</p>
+</body>
+</html>
